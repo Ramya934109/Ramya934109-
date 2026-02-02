@@ -1,6 +1,6 @@
 # Ramya934109-
 # 💫 About Me:
-My Career Objective<br> is to build a career in IT by applying technical skills, learning continuously, contributing effectively to team success and <br>adding value to the organization.
+My Career Objective<br> Aspiring Python Developer with hands-on experience in backend development and<br> data-driven applications, seeking an entry-level role to contribute to scalable solutions in a consulting-driven organization.
 
 
 ## 🌐 Socials:
